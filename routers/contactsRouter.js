@@ -9,7 +9,4 @@ contactsRouter.get('/', (req, res) => {
     })
 })
 
-
-
-
 module.exports = contactsRouter;
